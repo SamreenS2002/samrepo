@@ -1,5 +1,5 @@
 # 🩺 Clinical Data Interpretation & Insights
-“Analyzing data with integrity to uncover truths that matter.”
+“Analyzing data with integrity to interpret insights from data.”
 
 **🎯 Project Overview**
 

@@ -1,4 +1,4 @@
-#Clinical Data Interpretation
+# Clinical Data Interpretation
 
 **Project Goal:** To perform a deep-dive analysis into the Heart Disease UCI dataset to identify significant health indicators.
 

@@ -25,12 +25,19 @@ Welcome! I am a AI and ML Engineer and Researcher ** and former Software Enginee
 **Project:** [Differential Privacy Seminar](./AI-Privacy-Ethics)
 * **Goal:** Researched Laplace/Gaussian noise mechanisms to protect individual privacy in large-scale AI datasets.
 
+### 🔐 Differential Privacy & AI Ethics
+**Project:** Differential Privacy in AI Seminar
 
+The Problem: AI systems often compromise individual privacy during large-scale training.
+
+The Solution: Researched Laplace, Gaussian, and Exponential noise mechanisms to inject calibrated randomization into datasets.
+
+Impact: Explored how DP enhances Model Stability and Fairness, ensuring AI outcomes are independent of sensitive individual attributes.
 ---
 
 ## 🛠️ Tech Stack
 * **Languages:** Python (Pandas, NumPy, Scikit-Learn)
 * **Tools:** Power BI, GitHub, SQL, AI-Augmented Development (LLMs)
-* **Experience:** Production Support, System Stability, Data Stewardship
+* **Experience:** Production Support, System Stability, Data Analytics
 
 **Career Goal:** Leveraging my engineering experience to excel as a Data Analyst while preparing for a **Master's in Data Science**.

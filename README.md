@@ -1,43 +1,28 @@
-# 💎 Samreen Sulthana AI & ML Data Engineering and Researcher 
+# 💎 Samreen Sulthana -Data Analyst
 
-
-Welcome! I am a AI and ML Engineer and Researcher ** and former Software Engineer at **Ford Global Technology**. I specialize in bridging the gap between raw data and ethical, high-integrity AI systems. 
+Welcome! Iam a Data Analyst with 2 years of experience at FORD GTBC ,analyzing production system data, performing root cause analysis, and improving application performance. Proficient in SQL, Python, and Power BI to transform raw data into actionable insights. Known for identifying trends, fixing data inconsistencies, and enabling data-driven decisions in high-volume environments.
 
 ---
 
-## 🛡️ Data Analytics & Research Pillars
+## 🛡️ Data Analytics 
+**Project:**
+
+##Customer Feedback Analysis & Insight Generation using Python
+Built a customer feedback analysis system using Python and NLTK
+Applied sentiment analysis and text mining to identify customer pain points
+Visualized sentiment trends and derived insights for product improvement
+
 
 ### 📊 Exploratory Data Analysis (EDA)
 **Project:** [Clinical Heart Disease Analysis](./EDA-Clinical-Analysis)
 * **Goal:** Interpreted 303 patient records using Seaborn/Matplotlib to identify "Linear Separation" in features like `oldpeak`.
 
 
-### 🛒 Pattern Recognition
-**Project:** [Market Basket Analysis - Apriori Algorithm](./Market-Basket-Analysis)
-* **Goal:** Used the Apriori algorithm to discover purchasing associations (Support, Confidence, Lift) in retail data.
-
-
-### 📈 Decision Intelligence
-**Project:** [Performance & Career Path Scoring](./Business-Decision-Analytics)
-* **Goal:** Created weighted decision matrices to evaluate employee performance and strategic career paths based on quantitative scoring.
-
-### 🛡️ AI Ethics & Research
-**Project:** [Differential Privacy Seminar](./AI-Privacy-Ethics)
-* **Goal:** Researched Laplace/Gaussian noise mechanisms to protect individual privacy in large-scale AI datasets.
-
-### 🔐 Differential Privacy & AI Ethics
-**Project:** Differential Privacy in AI Seminar
-
-The Problem: AI systems often compromise individual privacy during large-scale training.
-
-The Solution: Researched Laplace, Gaussian, and Exponential noise mechanisms to inject calibrated randomization into datasets.
-
-Impact: Explored how DP enhances Model Stability and Fairness, ensuring AI outcomes are independent of sensitive individual attributes.
----
+Impact: 
 
 ## 🛠️ Tech Stack
-* **Languages:** Python (Pandas, NumPy, Scikit-Learn)
-* **Tools:** Power BI, GitHub, SQL, AI-Augmented Development (LLMs)
+* **Languages:** Python (Pandas, NumPy)
+* **Tools:** Power BI, GitHub, SQL, 
 * **Experience:** Production Support, System Stability, Data Analytics
 
 **Career Goal:** Leveraging my engineering experience to excel as a Data Analyst while preparing for a **Master's in Data Science**.
